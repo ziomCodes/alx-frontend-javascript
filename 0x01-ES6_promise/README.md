@@ -1,0 +1,1 @@
+This are tasks for the es6_promise project in the alx frontend javascript repo.
