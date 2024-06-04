@@ -1,0 +1,1 @@
+This are tasks for the es6 data manipulation project.
