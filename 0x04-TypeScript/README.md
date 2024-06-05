@@ -1,0 +1,1 @@
+This are tasks for the type script project in the alx frontend javascript repo.
